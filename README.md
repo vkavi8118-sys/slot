@@ -87,7 +87,8 @@ Execute the program using runserver command.
 </html>
 '''
 ## OUTPUT
-<img width="1920" height="1080" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/40e217f2-1ee6-485d-b65d-42d42fdb66a9" />
+<img width="1920" height="1080" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/242fcb76-0e47-42c7-9d58-d6be34c1d18b" />
+
 
 
 ## RESULT
